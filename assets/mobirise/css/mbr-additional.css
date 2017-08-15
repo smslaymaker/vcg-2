@@ -1177,7 +1177,7 @@ pre {
 .cid-qqlMXQgbGY {
   padding-top: 90px;
   padding-bottom: 135px;
-  background-image: url("../../../assets/images/mbr-1920x960.jpg");
+  background-image: url("../../../assets/images/nike-tennis-camps-virginia-gallery-1024x576.jpg");
 }
 .cid-qqlMXQgbGY .mbr-section-subtitle {
   letter-spacing: .2rem;
@@ -1185,6 +1185,7 @@ pre {
 .cid-qqlMXQgbGY .mbr-text,
 .cid-qqlMXQgbGY .mbr-section-btn {
   text-align: center;
+  color: #ffffff;
 }
 .cid-qqlMXQgbGY H3 {
   text-align: center;
@@ -2445,95 +2446,60 @@ pre {
   padding-bottom: 60px;
   background-image: url("../../../assets/images/mbr-5-1620x1080.jpg");
 }
-.cid-qqlVX3yMyF {
-  padding-top: 60px;
+.cid-qspL3PZitw {
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qspL3PZitw .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qspL3PZitw .section-text {
+  padding: 2rem 0;
+}
+.cid-qspL3PZitw .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qspL3PZitw .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-qspLiy44Qb {
+  padding-top: 15px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
-@media (min-width: 992px) {
-  .cid-qqlVX3yMyF .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-qqlVX3yMyF .mbr-figure {
-    padding-bottom: 1rem;
-  }
-}
-.cid-qqlVX3yMyF .mbr-text {
+.cid-qspLiy44Qb .counter-container {
   color: #767676;
 }
-.cid-qqlVXOJUND {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
+.cid-qspLiy44Qb .counter-container ul {
+  margin-bottom: 0;
 }
-@media (min-width: 992px) {
-  .cid-qqlVXOJUND .mbr-figure {
-    padding-right: 4rem;
-  }
+.cid-qspLiy44Qb .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
 }
-@media (max-width: 992px) {
-  .cid-qqlVXOJUND .mbr-figure {
-    padding-bottom: 1rem;
-  }
-}
-.cid-qqlVXOJUND .mbr-text {
-  color: #767676;
-}
-.cid-qqlVYwwMvT {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-@media (min-width: 992px) {
-  .cid-qqlVYwwMvT .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-qqlVYwwMvT .mbr-figure {
-    padding-bottom: 1rem;
-  }
-}
-.cid-qqlVYwwMvT .mbr-text {
-  color: #767676;
-}
-.cid-qqlVZexO1z {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-@media (min-width: 992px) {
-  .cid-qqlVZexO1z .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-qqlVZexO1z .mbr-figure {
-    padding-bottom: 1rem;
-  }
-}
-.cid-qqlVZexO1z .mbr-text {
-  color: #767676;
-}
-.cid-qqlW03gP2B {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-@media (min-width: 992px) {
-  .cid-qqlW03gP2B .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-qqlW03gP2B .mbr-figure {
-    padding-bottom: 1rem;
-  }
-}
-.cid-qqlW03gP2B .mbr-text {
-  color: #767676;
+.cid-qspLiy44Qb .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #149dcc;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
 }
 .cid-qqlW30cWca {
   padding-top: 30px;
@@ -2938,7 +2904,7 @@ pre {
 }
 .cid-qqpkjZCUPb {
   padding-top: 15px;
-  padding-bottom: 60px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-qqpkjZCUPb .counter-container {
@@ -2971,6 +2937,15 @@ pre {
   width: 40px;
   height: 40px;
   border-radius: 50%;
+}
+.cid-qspKgkE2H5 {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qspKgkE2H5 .mbr-text,
+.cid-qspKgkE2H5 blockquote {
+  color: #767676;
 }
 .cid-qrEZCMqYjF {
   padding-top: 90px;
