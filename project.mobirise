@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Virginia Consulting Group",
-    "currentPage": "join.html",
+    "currentPage": "us.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -40,7 +40,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "Virginia Consulting Group provides pro-bono consulting to non-profit and for-profit firms.",
+        "meta_descr": "Virginia Consulting Group provides pro-bono and paid consulting to non-profit and for-profit firms.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
