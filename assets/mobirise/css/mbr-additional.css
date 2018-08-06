@@ -3636,6 +3636,43 @@ body {
 .cid-qDT6jI9yAa .team-item .item-caption {
   background: #efefef;
 }
+.cid-qZXPKqYRAk {
+  padding-top: 90px;
+  padding-bottom: 30px;
+  background-color: #f9f9f9;
+}
+.cid-qZXPKqYRAk .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qZXPKqYRAk .media-row {
+  display: flex;
+  justify-content: center;
+}
+.cid-qZXPKqYRAk .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-qZXPKqYRAk .team-item .item-image img {
+  width: 100%;
+}
+.cid-qZXPKqYRAk .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-qZXPKqYRAk .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-qZXPKqYRAk .team-item .item-social {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.cid-qZXPKqYRAk .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-qZXPKqYRAk .team-item .item-caption {
+  background: #efefef;
+}
 .cid-qqlZ6dA4gh {
   padding-top: 30px;
   padding-bottom: 30px;
