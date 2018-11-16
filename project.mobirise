@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Virginia Consulting Group",
-    "currentPage": "join.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -35,7 +35,10 @@
     "uniqCompNum": 66,
     "versionPublish": "4.4.1",
     "siteUrl": "",
-    "sitemapSwitcherAuto": "on"
+    "sitemapSwitcherAuto": "on",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
@@ -2186,7 +2189,7 @@
         }
       ]
     },
-    "us.html": {
+    "about.html": {
       "settings": {
         "meta_descr": "Meet our executive board",
         "title": "About",
