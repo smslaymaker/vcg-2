@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Virginia Consulting Group",
-    "currentPage": "page5.html",
+    "currentPage": ".html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2984,7 +2984,7 @@
         }
       ]
     },
-    "page5.html": {
+    ".html": {
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Executive Board",
